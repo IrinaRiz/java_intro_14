@@ -1,0 +1,6 @@
+guru/qa/First.java
+ guru.qa.First
+homework_1/Payment.java
+ homework_1.Payment
+homework_1/Task_1_2_3.java
+ homework_1.Task_1_2_3
